@@ -1,5 +1,9 @@
 package com.paymentLedger.transaction_service.config;
 
+//what does a stateless microservice mean?
+//i allow the testing of all end points without authentication but only for the time being,
+//mordify me 
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

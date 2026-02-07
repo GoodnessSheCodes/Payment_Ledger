@@ -1,4 +1,4 @@
-package paymentLedger.notification_service.service;
+package com.paymentLedger.notification_service.service;
 
 
 public interface NotificationService {

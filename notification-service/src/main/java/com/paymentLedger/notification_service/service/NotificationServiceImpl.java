@@ -1,4 +1,4 @@
-package paymentLedger.notification_service.service;
+package com.paymentLedger.notification_service.service;
 
 import com.paypal.notification_service.entity.Notification;
 import com.paypal.notification_service.repository.NotificationRepository;

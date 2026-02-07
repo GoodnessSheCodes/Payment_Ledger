@@ -1,7 +1,7 @@
 package com.paymentLedger.notification_service.repository;
 
 
-import com.paypal.notification_service.entity.Notification;
+import com.paymentLedger.notification_service.entity.Notification;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -3,9 +3,9 @@ package com.paymentLedger.notification_service.kafka;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
-import com.paypal.notification_service.entity.Notification;
-import com.paypal.notification_service.entity.Transaction;
-import com.paypal.notification_service.repository.NotificationRepository;
+import com.paymentLedger.notification_service.entity.Notification;
+import com.paymentLedger.notification_service.entity.Transaction;
+import com.paymentLedger.notification_service.repository.NotificationRepository;
 import org.springframework.kafka.annotation.KafkaListener;
 import org.springframework.stereotype.Component;
 

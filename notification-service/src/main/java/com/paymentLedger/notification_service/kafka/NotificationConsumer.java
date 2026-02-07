@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 import java.time.LocalDateTime;
 
 @Component
-public class KafkaNotificationConsumer {
+public class NotificationConsumer {
 
     private final NotificationRepository notificationRepository;
     private final ObjectMapper mapper;

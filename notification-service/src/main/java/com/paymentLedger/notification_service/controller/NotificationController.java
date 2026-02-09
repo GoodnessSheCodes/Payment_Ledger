@@ -1,4 +1,4 @@
-package com.paymentLedger.notification_service.controler;
+package com.paymentLedger.notification_service.controller;
 
 import com.paymentLedger.notification_service.entity.Notification;
 import com.paymentLedger.notification_service.service.NotificationService;
